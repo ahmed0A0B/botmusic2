@@ -1,0 +1,6 @@
+owner=475317936719003660
+prefix=2
+game=Univers S?erver ,0.5k | 2play
+stayinchannel=true
+songinstatus=false
+token=NTQwNTQ2MzU3NTA5ODgxODU2.DzSeoQ.J3N8rzcBbLNQ9JgRzwU6kbo_zhM
